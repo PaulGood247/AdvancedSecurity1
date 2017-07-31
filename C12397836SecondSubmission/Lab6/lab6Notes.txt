@@ -1,0 +1,3 @@
+In this implementation I used the Crypto library using ARC4 as a stream cipher.
+https://pypi.python.org/pypi/pycrypto
+https://www.dlitz.net/software/pycrypto/api/2.6/
